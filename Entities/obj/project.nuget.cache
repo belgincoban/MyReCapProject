@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVOxZrVicU78YmL9uCuU8VOx9QU5bk1hLSgFi2cHVFDQhwnLxgLuFLU0NQom+sJTjZdZvUPDLzzkNJlhcul79w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\MyReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
